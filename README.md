@@ -8,11 +8,11 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python, R" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=py, R" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=pandas" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=sklearn" /> <br /><br />
 
 ## DB and Dev Tools etc
 
