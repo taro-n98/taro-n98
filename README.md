@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**taro-n98/taro-n98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a data scientist from Japan
 
-Here are some ideas to get you started:
+2. You can find my Zenn Blog [here](https://zenn.dev/taro98)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python, R" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=pandas" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=github,vscode" /> <br /><br />
