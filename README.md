@@ -8,7 +8,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=py, r" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=py,r" /> <br /><br />
 
 ## Frameworks and Library
 
